@@ -1,8 +1,10 @@
 # The Impossible Happened 📖📸
 
-A vintage digital scrapbook documenting a truly historic event: **Navneet is officially off the market.**
+A vintage digital scrapbook documenting a truly historic event: **My friend is officially off the market.**
 
-When the news dropped in the group chat, nobody believed it. We thought it was a prank, a glitch in the matrix, or perhaps a typo. This repository serves as the official archive of that day, preserving the documented evidence and the unfiltered reactions of everyone who witnessed this anomaly.
+When the news dropped through some DJ NIGHT, everyone was shocked. We thought it was a prank, a glitch in the matrix. This repository serves as the official archive of those days (in short ofcourse), preserving the documented evidence and the unfiltered reactions of everyone who witnessed this anomaly.
+
+Visit : https://brach-ki-unity.vercel.app/ for more info
 
 ## What is this?
 This is a single-page static website designed with a retro "journal" or "scrapbook" aesthetic. It features:
@@ -16,5 +18,5 @@ This is a single-page static website designed with a retro "journal" or "scrapbo
 - **Vanilla JavaScript:** For subtle scroll-reveal animations.
 
 ---
-*made with ❤️ by meoww me*
+*made with ❤️ by Meowww*
 
